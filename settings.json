@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "BrothersSMP119.aternos.me:60111",
+    "port": 601117,
     "version": "1.21.1"
   },
   "position": {
